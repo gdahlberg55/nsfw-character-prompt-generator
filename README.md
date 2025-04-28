@@ -6,6 +6,8 @@ A comprehensive toolkit for generating optimized NSFW character prompts for vari
 
 This project provides detailed guides and templates for creating high-quality, consistent NSFW character prompts across multiple AI image generation model families, with specific optimization techniques for each model type.
 
+> **Note:** This is a private repository containing adult content. Access is restricted to authorized users only.
+
 ## Documentation Structure
 
 ### Core Guides
